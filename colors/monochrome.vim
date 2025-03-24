@@ -1,7 +1,7 @@
 " Vim color scheme
 "
-" Name:       monochrome.vim
-" Maintainer: Xavier Noria <fxn@hashref.com>
+" Name:       mono-purple.vim
+" Maintainer: Debrunbaix <sasha.deroubaix.dev@proton.me>
 " License:    MIT
 
 set background=dark
@@ -11,7 +11,7 @@ if exists('syntax_on')
    syntax reset
 endif
 
-let g:colors_name = 'monochrome'
+let g:colors_name = 'mono-purple'
 
 let s:white  = ['White', 15]
 let s:black  = ['#171717', 16]
