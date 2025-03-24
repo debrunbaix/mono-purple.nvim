@@ -14,8 +14,8 @@ endif
 let g:colors_name = 'mono-purple'
 
 let s:white  = ['White', 15]
-let s:black  = ['#171717', 16]
-let s:bgray  = ['#171717', 233]
+let s:black  = ['#171717', 255]
+let s:bgray  = ['#171717', 255]
 let s:lgray  = ['#AB9DF2', 255]
 let s:cgray  = ['#737373', 243]
 let s:dgray  = ['DarkGray', 248]
